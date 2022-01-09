@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1641760892 source:d:\codeblocks\wtff\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<iostream>
+
